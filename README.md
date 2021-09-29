@@ -18,7 +18,7 @@ international media coverage, and memes been created about it. In addition, the
 account has gained almost 9 million followers since its debut.
 
 
-#Datasets used:
+# Datasets used:
 Thanks to Udacity I put my hands on three important datasets to analyze the
  account which is:
  twitter archive (from 2015- to 2017): which is a dataset include basic tweet data
